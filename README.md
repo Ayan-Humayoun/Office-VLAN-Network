@@ -2,7 +2,7 @@
 
 This project demonstrates how to configure a **Cisco Switch with VLANs** in Cisco Packet Tracer to simulate an office network.
 
-## 🔹 Project Overview
+##  Project Overview
 
 The office has 3 departments:
 
@@ -12,11 +12,11 @@ The office has 3 departments:
 
 Each department has 2 PCs connected to a central switch. VLANs logically separate the departments for security and traffic control.
 
-## 🔹 Topology
+##  Topology
 
-![Topology Diagram](Diagrams/vlan_topology.png)
+![Topology Diagram](Diagrams/NetworkTopology.png)
 
-## 🔹 Configuration Steps
+##  Configuration Steps
 
 1. **Create VLANs**
 
@@ -58,22 +58,22 @@ Each department has 2 PCs connected to a central switch. VLANs logically separat
 
 ---
 
-## 🔹 Future Work
+##  Future Work
 
 * Add a **Router-on-a-Stick** for inter-VLAN communication.
 * Implement **security features** like port security.
 
 ---
 
-## 🔹 Files Included
+##  Files Included
 
-* `office_vlan_network.pkt` → Packet Tracer simulation file
-* `vlan_topology.png` → Network topology diagram
+* `Office-VLAN-switch-Project.pkt` → Packet Tracer simulation file
+* `Network topology.png` → Network topology diagram
 * `vlan_project_report.pdf` → Project report
 
 ---
 
-## 🔹 Skills Learned
+##  Skills Learned
 
 * VLAN creation and management
 * Assigning switch ports to VLANs
