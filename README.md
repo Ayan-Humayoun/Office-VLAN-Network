@@ -12,9 +12,6 @@ The office has 3 departments:
 
 Each department has 2 PCs connected to a central switch. VLANs logically separate the departments for security and traffic control.
 
-##  Topology
-
-![Topology Diagram](Diagrams/NetworkTopology.png)
 
 ##  Configuration Steps
 
